@@ -1,6 +1,6 @@
 {
   "name": "@your_npm_username/greenlight_demo",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Demo target for Greenlight: a tiny library with one intentionally outdated dependency.",
   "main": "src/index.js",
   "files": [
@@ -14,6 +14,6 @@
   },
   "license": "MIT",
   "dependencies": {
-    "node-fetch": "2.6.0"
+    "node-fetch": "^3.3.2"
   }
 }
